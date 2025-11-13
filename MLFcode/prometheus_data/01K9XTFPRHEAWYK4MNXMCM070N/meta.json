@@ -1,0 +1,18 @@
+{
+	"ulid": "01K9XTFPRHEAWYK4MNXMCM070N",
+	"minTime": 1762984800000,
+	"maxTime": 1762992000000,
+	"stats": {
+		"numSamples": 251563,
+		"numFloatSamples": 251563,
+		"numSeries": 713,
+		"numChunks": 2171
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01K9XTFPRHEAWYK4MNXMCM070N"
+		]
+	},
+	"version": 1
+}

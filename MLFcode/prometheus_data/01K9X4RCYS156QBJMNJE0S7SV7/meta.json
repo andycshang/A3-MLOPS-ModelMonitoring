@@ -1,0 +1,18 @@
+{
+	"ulid": "01K9X4RCYS156QBJMNJE0S7SV7",
+	"minTime": 1762977605575,
+	"maxTime": 1762984800000,
+	"stats": {
+		"numSamples": 413364,
+		"numFloatSamples": 413364,
+		"numSeries": 988,
+		"numChunks": 3697
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01K9X4RCYS156QBJMNJE0S7SV7"
+		]
+	},
+	"version": 1
+}
